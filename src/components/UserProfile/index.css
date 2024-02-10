@@ -1,0 +1,32 @@
+.list-container {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.list-container img {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+.details-container {
+  margin-left: 16px;
+}
+
+.details-container h1 {
+  font-size: 20px;
+  color: #12022f;
+  font-family: "Roboto";
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.details-container p {
+  font-family: "Roboto";
+  font-size: 16px;
+  color: #594d6d;
+  margin: 0px;
+}
